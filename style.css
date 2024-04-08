@@ -1,4 +1,9 @@
 .heading{
     text-align: center;
-    font-size: 500px;
+}
+.picture{
+    justify-content: end;
+}
+.row{
+    align-content: space-between;
 }
