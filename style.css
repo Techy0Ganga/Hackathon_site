@@ -1,5 +1,6 @@
 .heading{
     text-align: center;
+<<<<<<< HEAD
 }
 .picture{
     justify-content: end;
@@ -7,3 +8,7 @@
 .row{
     align-content: space-between;
 }
+=======
+    font-size: 500px;
+}
+>>>>>>> cd5c77610dfa5d2410716e3e2136ed3561e8779f
